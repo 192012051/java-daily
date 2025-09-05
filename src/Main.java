@@ -5,7 +5,7 @@ public class Main {
         Scanner scan = new Scanner(System.in);
         int num = scan.nextInt();
         if (num %2 == 0) {
-            System.out.println(num + "is Evennnnn" );
+            System.out.println(num + "is Evennnnnttt" );
         }
     }
 }
